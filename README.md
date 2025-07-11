@@ -1,1 +1,3 @@
-##My Discord music bot project open source with a lot features like playlist,inteaktive handle more and use with mongoDB Databse##
+# My Discord music bot project open source with a lot features like playlist,inteaktive handle more and use with mongoDB Databse
+
+# fill in .env first before running it
