@@ -1,0 +1,32 @@
+{
+  "name": "DanX Music",
+  "description": "Advance Discord music bot using Riffy Lavalink Client and CommandKit.",
+  "version": "1.0.2",
+  "main": "DanX.js",
+  "scripts": {
+    "start": "node --unhandled-rejections=strict DanX",
+    "deploy": "npm run flushCommands && npm start",
+    "flushCommands": "node utils/commandFlush.js"
+  },
+  "author": "DanX",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.44",
+    "axios": "^1.10.0",
+    "canvas": "^2.11.2",
+    "colors": "^1.4.0",
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "llyrics": "^1.1.7",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^8.6.3",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.10",
+    "os": "^0.1.2",
+    "riffy": "https://pkg.pr.new/riffy-team/riffy@15b650b",
+    "riffy-spotify": "^1.0.2",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
