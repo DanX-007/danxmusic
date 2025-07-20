@@ -1,0 +1,323 @@
+{
+  "weapon": {
+    "common": {
+      "Wooden Sword": {
+        "id": "item_14",
+        "materials": {
+          "item_121": 5,
+          "item_122": 2
+        },
+        "requiredSkill": 1
+      },
+      "Iron Sword": {
+        "id": "item_21",
+        "materials": {
+          "item_123": 3,
+          "item_121": 2
+        },
+        "requiredSkill": 1
+      },
+      "Battle Axe": {
+        "id": "item_23",
+        "materials": {
+          "item_123": 4,
+          "item_121": 3
+        },
+        "requiredSkill": 1
+      }
+    },
+    "uncommon": {
+      "Steel Sword": {
+        "id": "item_7",
+        "materials": {
+          "item_123": 5,
+          "item_122": 3,
+          "item_126": 1
+        },
+        "requiredSkill": 3
+      },
+      "War Axe": {
+        "id": "item_24",
+        "materials": {
+          "item_123": 6,
+          "item_121": 2,
+          "item_122": 2
+        },
+        "requiredSkill": 3
+      }
+    },
+    "rare": {
+      "Silver Sword": {
+        "id": "item_27",
+        "materials": {
+          "item_123": 8,
+          "item_124": 2,
+          "item_125": 1
+        },
+        "requiredSkill": 6
+      },
+      "Steel Axe": {
+        "id": "item_64",
+        "materials": {
+          "item_123": 10,
+          "item_122": 5,
+          "item_126": 2
+        },
+        "requiredSkill": 6
+      }
+    },
+    "epic": {
+      "Iron Axe": {
+        "id": "item_1",
+        "materials": {
+          "item_123": 15,
+          "item_124": 5,
+          "item_130": 3,
+          "item_125": 2
+        },
+        "requiredSkill": 10
+      },
+      "Silver Sword": {
+        "id": "item_99",
+        "materials": {
+          "item_123": 12,
+          "item_124": 8,
+          "item_125": 5,
+          "item_127": 2
+        },
+        "requiredSkill": 10
+      }
+    },
+    "legendary": {
+      "Shadow Blade": {
+        "id": "item_75",
+        "materials": {
+          "item_124": 15,
+          "item_125": 10,
+          "item_130": 8,
+          "item_128": 5
+        },
+        "requiredSkill": 15
+      },
+      "War Axe": {
+        "id": "item_44",
+        "materials": {
+          "item_123": 20,
+          "item_124": 10,
+          "item_130": 10,
+          "item_127": 5
+        },
+        "requiredSkill": 15
+      }
+    }
+  },
+  "armor": {
+    "common": {
+      "Leather Cap": {
+        "id": "item_22",
+        "materials": {
+          "item_126": 5,
+          "item_121": 2
+        },
+        "requiredSkill": 1
+      },
+      "Iron Boots": {
+        "id": "item_26",
+        "materials": {
+          "item_123": 3,
+          "item_126": 2
+        },
+        "requiredSkill": 1
+      }
+    },
+    "uncommon": {
+      "Leather Cap": {
+        "id": "item_12",
+        "materials": {
+          "item_126": 8,
+          "item_123": 2,
+          "item_122": 2
+        },
+        "requiredSkill": 3
+      },
+      "Iron Armor": {
+        "id": "item_30",
+        "materials": {
+          "item_123": 10,
+          "item_126": 5
+        },
+        "requiredSkill": 3
+      }
+    },
+    "rare": {
+      "Knight's Plate": {
+        "id": "item_8",
+        "materials": {
+          "item_123": 15,
+          "item_124": 3,
+          "item_125": 2
+        },
+        "requiredSkill": 6
+      },
+      "Dragon Helm": {
+        "id": "item_74",
+        "materials": {
+          "item_123": 12,
+          "item_126": 8,
+          "item_130": 3
+        },
+        "requiredSkill": 6
+      }
+    },
+    "epic": {
+      "Steel Helmet": {
+        "id": "item_41",
+        "materials": {
+          "item_123": 20,
+          "item_124": 8,
+          "item_125": 5,
+          "item_127": 3
+        },
+        "requiredSkill": 10
+      },
+      "Leather Armor": {
+        "id": "item_38",
+        "materials": {
+          "item_126": 15,
+          "item_130": 10,
+          "item_125": 5
+        },
+        "requiredSkill": 10
+      }
+    },
+    "legendary": {
+      "Dragon Mail": {
+        "id": "item_19",
+        "materials": {
+          "item_124": 20,
+          "item_130": 15,
+          "item_127": 10,
+          "item_128": 10
+        },
+        "requiredSkill": 15
+      },
+      "Dragon Helm": {
+        "id": "item_6",
+        "materials": {
+          "item_124": 15,
+          "item_130": 12,
+          "item_125": 10,
+          "item_129": 5
+        },
+        "requiredSkill": 15
+      }
+    }
+  },
+  "item": {
+    "common": {
+      "Common Health Potion": {
+        "id": "item_101",
+        "materials": {
+          "item_125": 2,
+          "item_126": 1
+        },
+        "requiredSkill": 1
+      },
+      "Common Defense Elixir": {
+        "id": "item_106",
+        "materials": {
+          "item_125": 2,
+          "item_122": 2
+        },
+        "requiredSkill": 1
+      }
+    },
+    "uncommon": {
+      "Uncommon Health Potion": {
+        "id": "item_102",
+        "materials": {
+          "item_125": 4,
+          "item_126": 2,
+          "item_122": 1
+        },
+        "requiredSkill": 3
+      },
+      "Uncommon Defense Elixir": {
+        "id": "item_107",
+        "materials": {
+          "item_125": 4,
+          "item_122": 3,
+          "item_123": 1
+        },
+        "requiredSkill": 3
+      }
+    },
+    "rare": {
+      "Rare Health Potion": {
+        "id": "item_103",
+        "materials": {
+          "item_125": 8,
+          "item_126": 4,
+          "item_123": 2
+        },
+        "requiredSkill": 6
+      },
+      "Rare Defense Elixir": {
+        "id": "item_108",
+        "materials": {
+          "item_125": 8,
+          "item_122": 5,
+          "item_123": 3,
+          "item_124": 1
+        },
+        "requiredSkill": 6
+      }
+    },
+    "epic": {
+      "Epic Health Potion": {
+        "id": "item_104",
+        "materials": {
+          "item_125": 15,
+          "item_130": 5,
+          "item_124": 3,
+          "item_127": 2
+        },
+        "requiredSkill": 10
+      },
+      "Epic Defense Elixir": {
+        "id": "item_109",
+        "materials": {
+          "item_125": 15,
+          "item_124": 5,
+          "item_130": 5,
+          "item_128": 3
+        },
+        "requiredSkill": 10
+      }
+    },
+    "legendary": {
+      "Legendary Health Potion": {
+        "id": "item_105",
+        "materials": {
+          "item_125": 25,
+          "item_130": 10,
+          "item_124": 8,
+          "item_127": 5,
+          "item_128": 5
+        },
+        "requiredSkill": 15
+      },
+      "Legendary Defense Elixir": {
+        "id": "item_110",
+        "materials": {
+          "item_125": 25,
+          "item_124": 10,
+          "item_130": 10,
+          "item_127": 5,
+          "item_128": 5
+        },
+        "requiredSkill": 15
+      }
+    }
+  }
+}

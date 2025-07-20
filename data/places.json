@@ -1,0 +1,1364 @@
+[
+  {
+    "id": "whispering_hollows",
+    "name": "Whispering Hollows",
+    "type": "ruins",
+    "levelRange": [
+      3,
+      42
+    ],
+    "description": "A mystical land where the winds whisper ancient secrets.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Whispering+Hollows",
+    "exploration": {
+      "steps": [
+        "Ada bisikan tak dikenal dari semak-semak di Whispering Hollows...",
+        "Kamu menemukan simbol kuno terukir di batuan Whispering Hollows...",
+        "Kabut mulai menebal saat kamu mendekati Whispering Hollows...",
+        "Kamu melangkah ke wilayah Whispering Hollows, udara terasa berbeda...",
+        "Angin membawa suara lagu sedih dari Whispering Hollows..."
+      ],
+      "monsterChance": 0.4,
+      "monsterPool": [
+        "goblin",
+        "undead"
+      ],
+      "eventChance": 0.29,
+      "xpReward": 36,
+      "goldReward": [
+        18,
+        28
+      ],
+      "drops": [
+        {
+          "id": "item_100",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_78",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_40",
+          "chance": 0.35,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "stone",
+        "chance": 0.33,
+        "gatherXp": 5
+      }
+    ],
+    "connections": [
+      "thornshade_glade",
+      "blackthorn_clearing"
+    ]
+  },
+  {
+    "id": "crimson_marsh",
+    "name": "Crimson Marsh",
+    "type": "ruins",
+    "levelRange": [
+      26,
+      57
+    ],
+    "description": "Swamplands veiled in crimson mist, echoing the cries of the lost.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Crimson+Marsh",
+    "exploration": {
+      "steps": [
+        "Kamu melangkah ke wilayah Crimson Marsh, udara terasa berbeda...",
+        "Aroma asing memenuhi udara di sekitar Crimson Marsh...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Crimson Marsh...",
+        "Sebuah suara gaib terdengar saat kamu melewati Crimson Marsh...",
+        "Ada bisikan tak dikenal dari semak-semak di Crimson Marsh..."
+      ],
+      "monsterChance": 0.52,
+      "monsterPool": [
+        "wolf",
+        "goblin"
+      ],
+      "eventChance": 0.21,
+      "xpReward": 61,
+      "goldReward": [
+        30,
+        56
+      ],
+      "drops": [
+        {
+          "id": "item_42",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_23",
+          "chance": 0.5,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_8",
+          "chance": 0.25,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "crystals",
+        "chance": 0.73,
+        "gatherXp": 10
+      }
+    ],
+    "connections": [
+      "howling_pass",
+      "moonlit_fen"
+    ]
+  },
+  {
+    "id": "obsidian_keep",
+    "name": "Obsidian Keep",
+    "type": "ruins",
+    "levelRange": [
+      16,
+      49
+    ],
+    "description": "An abandoned keep rumored to be haunted by shadowy knights.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Obsidian+Keep",
+    "exploration": {
+      "steps": [
+        "Ada bisikan tak dikenal dari semak-semak di Obsidian Keep...",
+        "Kamu melangkah ke wilayah Obsidian Keep, udara terasa berbeda...",
+        "Angin membawa suara lagu sedih dari Obsidian Keep...",
+        "Sebuah jalan tersembunyi muncul di balik reruntuhan Obsidian Keep...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Obsidian Keep..."
+      ],
+      "monsterChance": 0.55,
+      "monsterPool": [
+        "undead",
+        "goblin"
+      ],
+      "eventChance": 0.27,
+      "xpReward": 48,
+      "goldReward": [
+        24,
+        41
+      ],
+      "drops": [
+        {
+          "id": "item_86",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_5",
+          "chance": 0.15,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_17",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "wood",
+        "chance": 0.5,
+        "gatherXp": 8
+      }
+    ],
+    "connections": [
+      "blightroot_hollow",
+      "blackthorn_clearing"
+    ]
+  },
+  {
+    "id": "frostfang_vale",
+    "name": "Frostfang Vale",
+    "type": "cave",
+    "levelRange": [
+      2,
+      37
+    ],
+    "description": "Frozen tundra guarded by beasts of ice and legend.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Frostfang+Vale",
+    "exploration": {
+      "steps": [
+        "Kamu menemukan simbol kuno terukir di batuan Frostfang Vale...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Frostfang Vale...",
+        "Sebuah suara gaib terdengar saat kamu melewati Frostfang Vale...",
+        "Cahaya aneh memancar dari kejauhan di Frostfang Vale...",
+        "Angin membawa suara lagu sedih dari Frostfang Vale..."
+      ],
+      "monsterChance": 0.55,
+      "monsterPool": [
+        "slime",
+        "ghost"
+      ],
+      "eventChance": 0.23,
+      "xpReward": 64,
+      "goldReward": [
+        32,
+        59
+      ],
+      "drops": [
+        {
+          "id": "item_3",
+          "chance": 0.15,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_65",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_83",
+          "chance": 0.25,
+          "min": 1,
+          "max": 3
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "crystals",
+        "chance": 0.5,
+        "gatherXp": 8
+      }
+    ],
+    "connections": [
+      "twilight_grotto",
+      "phantom_moor"
+    ]
+  },
+  {
+    "id": "twilight_grotto",
+    "name": "Twilight Grotto",
+    "type": "mountain",
+    "levelRange": [
+      29,
+      59
+    ],
+    "description": "A glowing grotto where moonlight never fades.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Twilight+Grotto",
+    "exploration": {
+      "steps": [
+        "Sebuah suara gaib terdengar saat kamu melewati Twilight Grotto...",
+        "Ada bisikan tak dikenal dari semak-semak di Twilight Grotto...",
+        "Kamu melangkah ke wilayah Twilight Grotto, udara terasa berbeda...",
+        "Aroma asing memenuhi udara di sekitar Twilight Grotto...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Twilight Grotto..."
+      ],
+      "monsterChance": 0.55,
+      "monsterPool": [
+        "slime",
+        "undead"
+      ],
+      "eventChance": 0.29,
+      "xpReward": 64,
+      "goldReward": [
+        32,
+        59
+      ],
+      "drops": [
+        {
+          "id": "item_36",
+          "chance": 0.35,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_64",
+          "chance": 0.25,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_30",
+          "chance": 0.35,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "ore",
+        "chance": 0.61,
+        "gatherXp": 10
+      }
+    ],
+    "connections": [
+      "duskmire_marsh",
+      "frozen_veins"
+    ]
+  },
+  {
+    "id": "stormspire_peaks",
+    "name": "Stormspire Peaks",
+    "type": "safe_zone",
+    "levelRange": [
+      16,
+      54
+    ],
+    "description": "Jagged peaks struck constantly by storms, sacred to sky gods.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Stormspire+Peaks",
+    "services": [
+      "inn",
+      "trainer",
+      "blacksmith"
+    ],
+    "connections": [
+      "phantom_moor",
+      "ironhowl_mines"
+    ]
+  },
+  {
+    "id": "emberroot_grove",
+    "name": "Emberroot Grove",
+    "type": "cave",
+    "levelRange": [
+      14,
+      31
+    ],
+    "description": "Forest roots that burn eternally without consuming themselves.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Emberroot+Grove",
+    "exploration": {
+      "steps": [
+        "Sebuah suara gaib terdengar saat kamu melewati Emberroot Grove...",
+        "Sebuah jalan tersembunyi muncul di balik reruntuhan Emberroot Grove...",
+        "Kabut mulai menebal saat kamu mendekati Emberroot Grove...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Emberroot Grove...",
+        "Kamu menemukan simbol kuno terukir di batuan Emberroot Grove..."
+      ],
+      "monsterChance": 0.52,
+      "monsterPool": [
+        "slime",
+        "goblin"
+      ],
+      "eventChance": 0.23,
+      "xpReward": 45,
+      "goldReward": [
+        22,
+        38
+      ],
+      "drops": [
+        {
+          "id": "item_73",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_34",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_89",
+          "chance": 0.5,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "stone",
+        "chance": 0.68,
+        "gatherXp": 7
+      }
+    ],
+    "connections": [
+      "frostfang_vale",
+      "frostfang_vale"
+    ]
+  },
+  {
+    "id": "shattered_bastion",
+    "name": "Shattered Bastion",
+    "type": "wilderness",
+    "levelRange": [
+      12,
+      32
+    ],
+    "description": "A broken fortress once home to mighty warlords.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Shattered+Bastion",
+    "exploration": {
+      "steps": [
+        "Aroma asing memenuhi udara di sekitar Shattered Bastion...",
+        "Kabut mulai menebal saat kamu mendekati Shattered Bastion...",
+        "Cahaya aneh memancar dari kejauhan di Shattered Bastion...",
+        "Angin membawa suara lagu sedih dari Shattered Bastion...",
+        "Sebuah suara gaib terdengar saat kamu melewati Shattered Bastion..."
+      ],
+      "monsterChance": 0.47,
+      "monsterPool": [
+        "undead",
+        "goblin"
+      ],
+      "eventChance": 0.21,
+      "xpReward": 57,
+      "goldReward": [
+        28,
+        51
+      ],
+      "drops": [
+        {
+          "id": "item_77",
+          "chance": 0.35,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_37",
+          "chance": 0.25,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_3",
+          "chance": 0.15,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "herbs",
+        "chance": 0.33,
+        "gatherXp": 4
+      }
+    ],
+    "connections": [
+      "mistral_hollow",
+      "duskmire_marsh"
+    ]
+  },
+  {
+    "id": "verdant_labyrinth",
+    "name": "Verdant Labyrinth",
+    "type": "mountain",
+    "levelRange": [
+      15,
+      47
+    ],
+    "description": "A twisting labyrinth of lush flora and confusing paths.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Verdant+Labyrinth",
+    "exploration": {
+      "steps": [
+        "Sebuah jalan tersembunyi muncul di balik reruntuhan Verdant Labyrinth...",
+        "Kamu melangkah ke wilayah Verdant Labyrinth, udara terasa berbeda...",
+        "Kamu menemukan simbol kuno terukir di batuan Verdant Labyrinth...",
+        "Sebuah suara gaib terdengar saat kamu melewati Verdant Labyrinth...",
+        "Aroma asing memenuhi udara di sekitar Verdant Labyrinth..."
+      ],
+      "monsterChance": 0.47,
+      "monsterPool": [
+        "bandit",
+        "undead"
+      ],
+      "eventChance": 0.23,
+      "xpReward": 57,
+      "goldReward": [
+        28,
+        51
+      ],
+      "drops": [
+        {
+          "id": "item_20",
+          "chance": 0.08,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_90",
+          "chance": 0.25,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_58",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "ore",
+        "chance": 0.39,
+        "gatherXp": 3
+      }
+    ],
+    "connections": [
+      "verdant_labyrinth",
+      "howling_pass"
+    ]
+  },
+  {
+    "id": "moonlit_fen",
+    "name": "Moonlit Fen",
+    "type": "ruins",
+    "levelRange": [
+      3,
+      57
+    ],
+    "description": "Fog-covered wetlands that glisten under the moonlight.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Moonlit+Fen",
+    "exploration": {
+      "steps": [
+        "Aroma asing memenuhi udara di sekitar Moonlit Fen...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Moonlit Fen...",
+        "Kamu menemukan simbol kuno terukir di batuan Moonlit Fen...",
+        "Cahaya aneh memancar dari kejauhan di Moonlit Fen...",
+        "Sebuah jalan tersembunyi muncul di balik reruntuhan Moonlit Fen..."
+      ],
+      "monsterChance": 0.55,
+      "monsterPool": [
+        "goblin",
+        "slime"
+      ],
+      "eventChance": 0.23,
+      "xpReward": 64,
+      "goldReward": [
+        32,
+        59
+      ],
+      "drops": [
+        {
+          "id": "item_55",
+          "chance": 0.35,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_88",
+          "chance": 0.5,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_87",
+          "chance": 0.5,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "ore",
+        "chance": 0.56,
+        "gatherXp": 10
+      }
+    ],
+    "connections": [
+      "silent_hollow",
+      "thornshade_glade"
+    ]
+  },
+  {
+    "id": "gravewind_canyon",
+    "name": "Gravewind Canyon",
+    "type": "cave",
+    "levelRange": [
+      30,
+      45
+    ],
+    "description": "Canyon winds howl like tormented souls in the night.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Gravewind+Canyon",
+    "exploration": {
+      "steps": [
+        "Sebuah suara gaib terdengar saat kamu melewati Gravewind Canyon...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Gravewind Canyon...",
+        "Aroma asing memenuhi udara di sekitar Gravewind Canyon...",
+        "Cahaya aneh memancar dari kejauhan di Gravewind Canyon...",
+        "Kamu melangkah ke wilayah Gravewind Canyon, udara terasa berbeda..."
+      ],
+      "monsterChance": 0.59,
+      "monsterPool": [
+        "goblin",
+        "ghost"
+      ],
+      "eventChance": 0.21,
+      "xpReward": 51,
+      "goldReward": [
+        25,
+        44
+      ],
+      "drops": [
+        {
+          "id": "item_69",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_57",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_77",
+          "chance": 0.35,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "ore",
+        "chance": 0.42,
+        "gatherXp": 9
+      }
+    ],
+    "connections": [
+      "crystal_bloom_fields",
+      "ironhowl_mines"
+    ]
+  },
+  {
+    "id": "sapphire_depths",
+    "name": "Sapphire Depths",
+    "type": "ruins",
+    "levelRange": [
+      24,
+      46
+    ],
+    "description": "An underground lake reflecting forgotten starlight.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Sapphire+Depths",
+    "exploration": {
+      "steps": [
+        "Ada bisikan tak dikenal dari semak-semak di Sapphire Depths...",
+        "Kabut mulai menebal saat kamu mendekati Sapphire Depths...",
+        "Kamu melangkah ke wilayah Sapphire Depths, udara terasa berbeda...",
+        "Cahaya aneh memancar dari kejauhan di Sapphire Depths...",
+        "Angin membawa suara lagu sedih dari Sapphire Depths..."
+      ],
+      "monsterChance": 0.5,
+      "monsterPool": [
+        "ghost",
+        "slime"
+      ],
+      "eventChance": 0.24,
+      "xpReward": 60,
+      "goldReward": [
+        30,
+        55
+      ],
+      "drops": [
+        {
+          "id": "item_55",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_54",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_2",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "wood",
+        "chance": 0.36,
+        "gatherXp": 7
+      }
+    ],
+    "connections": [
+      "veil_of_echoes",
+      "runestone_cavern"
+    ]
+  },
+  {
+    "id": "duskveil_forest",
+    "name": "Duskveil Forest",
+    "type": "ruins",
+    "levelRange": [
+      28,
+      46
+    ],
+    "description": "A cursed forest where daylight dares not enter.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Duskveil+Forest",
+    "exploration": {
+      "steps": [
+        "Angin membawa suara lagu sedih dari Duskveil Forest...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Duskveil Forest...",
+        "Cahaya aneh memancar dari kejauhan di Duskveil Forest...",
+        "Ada bisikan tak dikenal dari semak-semak di Duskveil Forest...",
+        "Aroma asing memenuhi udara di sekitar Duskveil Forest..."
+      ],
+      "monsterChance": 0.4,
+      "monsterPool": [
+        "ghost",
+        "wolf"
+      ],
+      "eventChance": 0.24,
+      "xpReward": 52,
+      "goldReward": [
+        26,
+        46
+      ],
+      "drops": [
+        {
+          "id": "item_31",
+          "chance": 0.5,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_67",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_1",
+          "chance": 0.15,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "mushrooms",
+        "chance": 0.31,
+        "gatherXp": 8
+      }
+    ],
+    "connections": [
+      "sapphire_depths",
+      "emberroot_grove"
+    ]
+  },
+  {
+    "id": "ebonreach_cliffs",
+    "name": "Ebonreach Cliffs",
+    "type": "cave",
+    "levelRange": [
+      28,
+      39
+    ],
+    "description": "High cliffs that pierce the sky and shadow the sea.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Ebonreach+Cliffs",
+    "exploration": {
+      "steps": [
+        "Langkahmu terhenti saat bayangan melintas cepat di Ebonreach Cliffs...",
+        "Sebuah jalan tersembunyi muncul di balik reruntuhan Ebonreach Cliffs...",
+        "Aroma asing memenuhi udara di sekitar Ebonreach Cliffs...",
+        "Ada bisikan tak dikenal dari semak-semak di Ebonreach Cliffs...",
+        "Kamu menemukan simbol kuno terukir di batuan Ebonreach Cliffs..."
+      ],
+      "monsterChance": 0.54,
+      "monsterPool": [
+        "bandit",
+        "slime"
+      ],
+      "eventChance": 0.26,
+      "xpReward": 63,
+      "goldReward": [
+        31,
+        58
+      ],
+      "drops": [
+        {
+          "id": "item_26",
+          "chance": 0.5,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_59",
+          "chance": 0.5,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_77",
+          "chance": 0.35,
+          "min": 1,
+          "max": 3
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "ore",
+        "chance": 0.35,
+        "gatherXp": 9
+      }
+    ],
+    "connections": [
+      "twilight_bastion",
+      "shattered_bastion"
+    ]
+  },
+  {
+    "id": "ashen_wastes",
+    "name": "Ashen Wastes",
+    "type": "valley",
+    "levelRange": [
+      23,
+      58
+    ],
+    "description": "Desolate lands scorched by dragonfire and cursed ash.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Ashen+Wastes",
+    "exploration": {
+      "steps": [
+        "Kamu melangkah ke wilayah Ashen Wastes, udara terasa berbeda...",
+        "Sebuah jalan tersembunyi muncul di balik reruntuhan Ashen Wastes...",
+        "Aroma asing memenuhi udara di sekitar Ashen Wastes...",
+        "Ada bisikan tak dikenal dari semak-semak di Ashen Wastes...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Ashen Wastes..."
+      ],
+      "monsterChance": 0.5,
+      "monsterPool": [
+        "ghost",
+        "goblin"
+      ],
+      "eventChance": 0.26,
+      "xpReward": 60,
+      "goldReward": [
+        30,
+        55
+      ],
+      "drops": [
+        {
+          "id": "item_4",
+          "chance": 0.35,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_22",
+          "chance": 0.5,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_84",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "wood",
+        "chance": 0.71,
+        "gatherXp": 3
+      }
+    ],
+    "connections": [
+      "glimmering_caverns",
+      "shattered_bastion"
+    ]
+  },
+  {
+    "id": "glimmering_caverns",
+    "name": "Glimmering Caverns",
+    "type": "wilderness",
+    "levelRange": [
+      7,
+      52
+    ],
+    "description": "Crystalline caves humming with latent magic.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Glimmering+Caverns",
+    "exploration": {
+      "steps": [
+        "Kabut mulai menebal saat kamu mendekati Glimmering Caverns...",
+        "Angin membawa suara lagu sedih dari Glimmering Caverns...",
+        "Cahaya aneh memancar dari kejauhan di Glimmering Caverns...",
+        "Kamu menemukan simbol kuno terukir di batuan Glimmering Caverns...",
+        "Aroma asing memenuhi udara di sekitar Glimmering Caverns..."
+      ],
+      "monsterChance": 0.48,
+      "monsterPool": [
+        "bandit",
+        "ghost"
+      ],
+      "eventChance": 0.29,
+      "xpReward": 42,
+      "goldReward": [
+        21,
+        35
+      ],
+      "drops": [
+        {
+          "id": "item_87",
+          "chance": 0.5,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_64",
+          "chance": 0.25,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_10",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "crystals",
+        "chance": 0.79,
+        "gatherXp": 4
+      }
+    ],
+    "connections": [
+      "duskveil_forest",
+      "hollowshade_sanctum"
+    ]
+  },
+  {
+    "id": "sunken_ruins",
+    "name": "Sunken Ruins",
+    "type": "cave",
+    "levelRange": [
+      24,
+      36
+    ],
+    "description": "Sunken ruins that once belonged to an ancient kingdom.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Sunken+Ruins",
+    "exploration": {
+      "steps": [
+        "Sebuah suara gaib terdengar saat kamu melewati Sunken Ruins...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Sunken Ruins...",
+        "Kamu menemukan simbol kuno terukir di batuan Sunken Ruins...",
+        "Cahaya aneh memancar dari kejauhan di Sunken Ruins...",
+        "Kabut mulai menebal saat kamu mendekati Sunken Ruins..."
+      ],
+      "monsterChance": 0.46,
+      "monsterPool": [
+        "wolf",
+        "undead"
+      ],
+      "eventChance": 0.23,
+      "xpReward": 40,
+      "goldReward": [
+        20,
+        33
+      ],
+      "drops": [
+        {
+          "id": "item_46",
+          "chance": 0.08,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_16",
+          "chance": 0.5,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "id": "item_61",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "crystals",
+        "chance": 0.42,
+        "gatherXp": 5
+      }
+    ],
+    "connections": [
+      "phantom_moor",
+      "obsidian_keep"
+    ]
+  },
+  {
+    "id": "thornshade_glade",
+    "name": "Thornshade Glade",
+    "type": "dungeon",
+    "levelRange": [
+      14,
+      39
+    ],
+    "description": "A glade thick with thorns and malevolent spirits.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Thornshade+Glade",
+    "exploration": {
+      "steps": [
+        "Kabut mulai menebal saat kamu mendekati Thornshade Glade...",
+        "Kamu menemukan simbol kuno terukir di batuan Thornshade Glade...",
+        "Ada bisikan tak dikenal dari semak-semak di Thornshade Glade...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Thornshade Glade...",
+        "Angin membawa suara lagu sedih dari Thornshade Glade..."
+      ],
+      "monsterChance": 0.4,
+      "monsterPool": [
+        "bandit",
+        "goblin"
+      ],
+      "eventChance": 0.25,
+      "xpReward": 52,
+      "goldReward": [
+        26,
+        46
+      ],
+      "drops": [
+        {
+          "id": "item_24",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_38",
+          "chance": 0.15,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_45",
+          "chance": 0.5,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "stone",
+        "chance": 0.55,
+        "gatherXp": 7
+      }
+    ],
+    "connections": [
+      "mistral_hollow",
+      "howling_pass"
+    ]
+  },
+  {
+    "id": "howling_pass",
+    "name": "Howling Pass",
+    "type": "mountain",
+    "levelRange": [
+      11,
+      51
+    ],
+    "description": "A treacherous mountain pass plagued by wild winds.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Howling+Pass",
+    "exploration": {
+      "steps": [
+        "Kamu menemukan simbol kuno terukir di batuan Howling Pass...",
+        "Sebuah suara gaib terdengar saat kamu melewati Howling Pass...",
+        "Langkahmu terhenti saat bayangan melintas cepat di Howling Pass...",
+        "Aroma asing memenuhi udara di sekitar Howling Pass...",
+        "Cahaya aneh memancar dari kejauhan di Howling Pass..."
+      ],
+      "monsterChance": 0.42,
+      "monsterPool": [
+        "ghost",
+        "wolf"
+      ],
+      "eventChance": 0.22,
+      "xpReward": 53,
+      "goldReward": [
+        26,
+        47
+      ],
+      "drops": [
+        {
+          "id": "item_34",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_53",
+          "chance": 0.35,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_90",
+          "chance": 0.25,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "wood",
+        "chance": 0.43,
+        "gatherXp": 4
+      }
+    ],
+    "connections": [
+      "obsidian_keep",
+      "spectral_pines"
+    ]
+  },
+  {
+    "id": "eclipse_plateau",
+    "name": "Eclipse Plateau",
+    "type": "mountain",
+    "levelRange": [
+      30,
+      33
+    ],
+    "description": "A plateau bathed in eternal twilight.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Eclipse+Plateau",
+    "exploration": {
+      "steps": [
+        "Kabut mulai menebal saat kamu mendekati Eclipse Plateau...",
+        "Cahaya aneh memancar dari kejauhan di Eclipse Plateau...",
+        "Kamu menemukan simbol kuno terukir di batuan Eclipse Plateau...",
+        "Sebuah suara gaib terdengar saat kamu melewati Eclipse Plateau...",
+        "Aroma asing memenuhi udara di sekitar Eclipse Plateau..."
+      ],
+      "monsterChance": 0.4,
+      "monsterPool": [
+        "wolf",
+        "bandit"
+      ],
+      "eventChance": 0.26,
+      "xpReward": 36,
+      "goldReward": [
+        18,
+        28
+      ],
+      "drops": [
+        {
+          "id": "item_80",
+          "chance": 0.35,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_48",
+          "chance": 0.35,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "id": "item_14",
+          "chance": 0.5,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "herbs",
+        "chance": 0.44,
+        "gatherXp": 4
+      }
+    ],
+    "connections": [
+      "whispering_hollows",
+      "moonlit_fen"
+    ]
+  },
+  {
+    "id": "ironhowl_mines",
+    "name": "Ironhowl Mines",
+    "type": "cave",
+    "levelRange": [
+      22,
+      58
+    ],
+    "description": "Ancient mines echoing with the clang of ghostly tools.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Ironhowl+Mines",
+    "exploration": {
+      "steps": [
+        "Langkahmu terhenti saat bayangan melintas cepat di Ironhowl Mines...",
+        "Kamu melangkah ke wilayah Ironhowl Mines, udara terasa berbeda...",
+        "Aroma asing memenuhi udara di sekitar Ironhowl Mines...",
+        "Sebuah jalan tersembunyi muncul di balik reruntuhan Ironhowl Mines...",
+        "Kamu menemukan simbol kuno terukir di batuan Ironhowl Mines..."
+      ],
+      "monsterChance": 0.42,
+      "monsterPool": [
+        "ghost",
+        "goblin"
+      ],
+      "eventChance": 0.3,
+      "xpReward": 37,
+      "goldReward": [
+        18,
+        29
+      ],
+      "drops": [
+        {
+          "id": "item_96",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_75",
+          "chance": 0.08,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_79",
+          "chance": 0.5,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "crystals",
+        "chance": 0.46,
+        "gatherXp": 6
+      }
+    ],
+    "connections": [
+      "crimson_marsh",
+      "duskmire_marsh"
+    ]
+  },
+  {
+    "id": "serpent's_cradle",
+    "name": "Serpent's Cradle",
+    "type": "safe_zone",
+    "levelRange": [
+      4,
+      40
+    ],
+    "description": "Nestled cliffs believed to be a dragon's nesting ground.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Serpent's+Cradle",
+    "services": [
+      "trainer",
+      "shop",
+      "blacksmith"
+    ],
+    "connections": [
+      "duskmire_marsh",
+      "frostfang_vale"
+    ]
+  },
+  {
+    "id": "netherlight_hollow",
+    "name": "Netherlight Hollow",
+    "type": "wilderness",
+    "levelRange": [
+      27,
+      32
+    ],
+    "description": "A hollow deep beneath the world, untouched by time.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Netherlight+Hollow",
+    "exploration": {
+      "steps": [
+        "Kamu menemukan simbol kuno terukir di batuan Netherlight Hollow...",
+        "Cahaya aneh memancar dari kejauhan di Netherlight Hollow...",
+        "Kabut mulai menebal saat kamu mendekati Netherlight Hollow...",
+        "Ada bisikan tak dikenal dari semak-semak di Netherlight Hollow...",
+        "Angin membawa suara lagu sedih dari Netherlight Hollow..."
+      ],
+      "monsterChance": 0.41,
+      "monsterPool": [
+        "slime",
+        "wolf"
+      ],
+      "eventChance": 0.23,
+      "xpReward": 52,
+      "goldReward": [
+        26,
+        46
+      ],
+      "drops": [
+        {
+          "id": "item_85",
+          "chance": 0.25,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_16",
+          "chance": 0.5,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "id": "item_19",
+          "chance": 0.08,
+          "min": 1,
+          "max": 2
+        }
+      ]
+    },
+    "resources": [
+      {
+        "id": "herbs",
+        "chance": 0.33,
+        "gatherXp": 9
+      }
+    ],
+    "connections": [
+      "crimson_marsh",
+      "duskveil_forest"
+    ]
+  },
+  {
+    "id": "dragonspire_summit",
+    "name": "Dragonspire Summit",
+    "type": "safe_zone",
+    "levelRange": [
+      18,
+      44
+    ],
+    "description": "An unreachable peak crowned by flames and fog.",
+    "image": "https://dummyimage.com/600x400/222/fff&text=Dragonspire+Summit",
+    "services": [
+      "blacksmith",
+      "inn",
+      "healer"
+    ],
+    "connections": [
+      "windwhisper_cliffs",
+      "eclipse_plateau"
+    ]
+  }
+]

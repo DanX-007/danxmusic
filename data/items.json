@@ -1,0 +1,3349 @@
+[
+  {
+    "id": "item_1",
+    "name": "Iron Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "epic",
+    "price": 588,
+    "sellPrice": 557,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 44
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_2",
+    "name": "Leather Cap",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "uncommon",
+    "price": 286,
+    "sellPrice": 742,
+    "description": "Forged for the elite sentinels.",
+    "stats": {
+      "defense": 12
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_3",
+    "name": "Iron Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "epic",
+    "price": 1407,
+    "sellPrice": 132,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 44
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_4",
+    "name": "Steel Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 504,
+    "sellPrice": 656,
+    "description": "Leaves a trail of broken shields.",
+    "stats": {
+      "attack": 9999999999
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_5",
+    "name": "Iron Helm",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "epic",
+    "price": 448,
+    "sellPrice": 519,
+    "description": "Still bears marks from past battles.",
+    "stats": {
+      "defense": 20
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_6",
+    "name": "Dragon Helm",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "epic",
+    "price": 1104,
+    "sellPrice": 580,
+    "description": "Still bears marks from past battles.",
+    "stats": {
+      "defense": 20
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_7",
+    "name": "Steel Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "uncommon",
+    "price": 154,
+    "sellPrice": 402,
+    "description": "Sharpened under a crimson moon.",
+    "stats": {
+      "attack": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_8",
+    "name": "Knight's Plate",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "rare",
+    "price": 1414,
+    "sellPrice": 762,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 75
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_9",
+    "name": "Iron Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "rare",
+    "price": 855,
+    "sellPrice": 454,
+    "description": "Rumored to increase marching pace.",
+    "stats": {
+      "hp": 30
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_10",
+    "name": "Iron Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 165,
+    "sellPrice": 313,
+    "description": "Worn by messengers of war.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_11",
+    "name": "Leather Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 1472,
+    "sellPrice": 239,
+    "description": "Built to endure dragon fire.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_12",
+    "name": "Dragon Helm",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "uncommon",
+    "price": 200,
+    "sellPrice": 467,
+    "description": "Forged for the elite sentinels.",
+    "stats": {
+      "defense": 12
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_13",
+    "name": "Steel Chest",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "rare",
+    "price": 384,
+    "sellPrice": 783,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 75
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_14",
+    "name": "Wooden Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "common",
+    "price": 682,
+    "sellPrice": 379,
+    "description": "Echoes with the cries of victory.",
+    "stats": {
+      "attack": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_15",
+    "name": "Dragon Greaves",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "uncommon",
+    "price": 940,
+    "sellPrice": 141,
+    "description": "Hardened soles for rough terrain.",
+    "stats": {
+      "hp": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_16",
+    "name": "Iron Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 1491,
+    "sellPrice": 486,
+    "description": "Still echo with ancient steps.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_17",
+    "name": "Iron Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "uncommon",
+    "price": 100,
+    "sellPrice": 356,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 60
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_18",
+    "name": "Iron Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 143,
+    "sellPrice": 548,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_19",
+    "name": "Dragon Mail",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "legendary",
+    "price": 1254,
+    "sellPrice": 773,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 150
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_20",
+    "name": "Wooden Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "legendary",
+    "price": 847,
+    "sellPrice": 539,
+    "description": "A relic from forgotten wars.",
+    "stats": {
+      "attack": 60
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_21",
+    "name": "Steel Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "common",
+    "price": 254,
+    "sellPrice": 72,
+    "description": "Echoes with the cries of victory.",
+    "stats": {
+      "attack": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_22",
+    "name": "Leather Cap",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "common",
+    "price": 570,
+    "sellPrice": 115,
+    "description": "Still bears marks from past battles.",
+    "stats": {
+      "defense": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_23",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "common",
+    "price": 1017,
+    "sellPrice": 249,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 22
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_24",
+    "name": "War Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 342,
+    "sellPrice": 407,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 26
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_25",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "common",
+    "price": 762,
+    "sellPrice": 54,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 22
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_26",
+    "name": "Iron Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 664,
+    "sellPrice": 736,
+    "description": "Leaves no trace behind.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_27",
+    "name": "Silver Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "rare",
+    "price": 803,
+    "sellPrice": 125,
+    "description": "Sharpened under a crimson moon.",
+    "stats": {
+      "attack": 30
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_28",
+    "name": "Shadow Cleaver",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "legendary",
+    "price": 1199,
+    "sellPrice": 217,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 66
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_29",
+    "name": "Iron Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "rare",
+    "price": 123,
+    "sellPrice": 64,
+    "description": "Worn by messengers of war.",
+    "stats": {
+      "hp": 30
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_30",
+    "name": "Iron Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "uncommon",
+    "price": 1150,
+    "sellPrice": 338,
+    "description": "Stitched with beast hide and iron.",
+    "stats": {
+      "maxHp": 60
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_31",
+    "name": "Leather Cap",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "common",
+    "price": 431,
+    "sellPrice": 321,
+    "description": "Still bears marks from past battles.",
+    "stats": {
+      "defense": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_32",
+    "name": "Iron Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "common",
+    "price": 1108,
+    "sellPrice": 568,
+    "description": "A favorite of berserkers.",
+    "stats": {
+      "attack": 22
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_33",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 952,
+    "sellPrice": 364,
+    "description": "A favorite of berserkers.",
+    "stats": {
+      "attack": 26
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_34",
+    "name": "Iron Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "uncommon",
+    "price": 766,
+    "sellPrice": 632,
+    "description": "Sharpened under a crimson moon.",
+    "stats": {
+      "attack": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_35",
+    "name": "Dragon Greaves",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 1106,
+    "sellPrice": 355,
+    "description": "Leaves no trace behind.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_36",
+    "name": "Steel Chest",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "uncommon",
+    "price": 1028,
+    "sellPrice": 200,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 60
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_37",
+    "name": "Leather Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "rare",
+    "price": 549,
+    "sellPrice": 410,
+    "description": "Leaves no trace behind.",
+    "stats": {
+      "hp": 30
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_38",
+    "name": "Leather Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "epic",
+    "price": 108,
+    "sellPrice": 770,
+    "description": "Fused with bone and steel.",
+    "stats": {
+      "maxHp": 100
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_39",
+    "name": "Dragon Greaves",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "rare",
+    "price": 351,
+    "sellPrice": 264,
+    "description": "Rumored to increase marching pace.",
+    "stats": {
+      "hp": 30
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_40",
+    "name": "Steel Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "uncommon",
+    "price": 322,
+    "sellPrice": 61,
+    "description": "Hardened soles for rough terrain.",
+    "stats": {
+      "hp": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_41",
+    "name": "Steel Helmet",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "epic",
+    "price": 387,
+    "sellPrice": 596,
+    "description": "Forged for the elite sentinels.",
+    "stats": {
+      "defense": 20
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_42",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "common",
+    "price": 708,
+    "sellPrice": 579,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 22
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_43",
+    "name": "War Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "common",
+    "price": 567,
+    "sellPrice": 282,
+    "description": "Splits more than just wood.",
+    "stats": {
+      "attack": 22
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_44",
+    "name": "War Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "legendary",
+    "price": 1057,
+    "sellPrice": 163,
+    "description": "Crafted by northern blacksmiths.",
+    "stats": {
+      "attack": 66
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_45",
+    "name": "Steel Chest",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 1207,
+    "sellPrice": 83,
+    "description": "Stitched with beast hide and iron.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_46",
+    "name": "Dragon Mail",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "legendary",
+    "price": 894,
+    "sellPrice": 454,
+    "description": "Stitched with beast hide and iron.",
+    "stats": {
+      "maxHp": 150
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_47",
+    "name": "Dragon Mail",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "uncommon",
+    "price": 1254,
+    "sellPrice": 510,
+    "description": "Stitched with beast hide and iron.",
+    "stats": {
+      "maxHp": 60
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_48",
+    "name": "Iron Helm",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "uncommon",
+    "price": 692,
+    "sellPrice": 349,
+    "description": "Inscribed with protective runes.",
+    "stats": {
+      "defense": 12
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_49",
+    "name": "Knight's Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "uncommon",
+    "price": 457,
+    "sellPrice": 670,
+    "description": "Leaves no trace behind.",
+    "stats": {
+      "hp": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_50",
+    "name": "Steel Helmet",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "uncommon",
+    "price": 690,
+    "sellPrice": 632,
+    "description": "Strong enough to block a warhammer.",
+    "stats": {
+      "defense": 12
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_51",
+    "name": "Steel Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "common",
+    "price": 721,
+    "sellPrice": 669,
+    "description": "Balanced for swift and deadly strikes.",
+    "stats": {
+      "attack": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_52",
+    "name": "Iron Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 738,
+    "sellPrice": 351,
+    "description": "Fused with bone and steel.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_53",
+    "name": "Wooden Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "uncommon",
+    "price": 575,
+    "sellPrice": 768,
+    "description": "Balanced for swift and deadly strikes.",
+    "stats": {
+      "attack": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_54",
+    "name": "Iron Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 830,
+    "sellPrice": 98,
+    "description": "A favorite of berserkers.",
+    "stats": {
+      "attack": 26
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_55",
+    "name": "Silver Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "uncommon",
+    "price": 1084,
+    "sellPrice": 532,
+    "description": "Echoes with the cries of victory.",
+    "stats": {
+      "attack": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_56",
+    "name": "Silver Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "common",
+    "price": 388,
+    "sellPrice": 382,
+    "description": "A relic from forgotten wars.",
+    "stats": {
+      "attack": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_57",
+    "name": "Iron Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 600,
+    "sellPrice": 778,
+    "description": "Hardened soles for rough terrain.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_58",
+    "name": "War Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 511,
+    "sellPrice": 529,
+    "description": "Splits more than just wood.",
+    "stats": {
+      "attack": 26
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_59",
+    "name": "Steel Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 1345,
+    "sellPrice": 124,
+    "description": "Still echo with ancient steps.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_60",
+    "name": "Knight's Plate",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "epic",
+    "price": 683,
+    "sellPrice": 74,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 100
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_61",
+    "name": "Leather Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 1342,
+    "sellPrice": 153,
+    "description": "Still echo with ancient steps.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_62",
+    "name": "Silver Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "common",
+    "price": 1314,
+    "sellPrice": 599,
+    "description": "Echoes with the cries of victory.",
+    "stats": {
+      "attack": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_63",
+    "name": "Dragon Helm",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "common",
+    "price": 310,
+    "sellPrice": 105,
+    "description": "Worn by guards of the ancient citadel.",
+    "stats": {
+      "defense": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_64",
+    "name": "Steel Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "rare",
+    "price": 1496,
+    "sellPrice": 556,
+    "description": "Leaves a trail of broken shields.",
+    "stats": {
+      "attack": 33
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_65",
+    "name": "War Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "common",
+    "price": 1125,
+    "sellPrice": 692,
+    "description": "Leaves a trail of broken shields.",
+    "stats": {
+      "attack": 22
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_66",
+    "name": "Steel Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "uncommon",
+    "price": 278,
+    "sellPrice": 333,
+    "description": "Rumored to increase marching pace.",
+    "stats": {
+      "hp": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_67",
+    "name": "Knight's Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 1360,
+    "sellPrice": 601,
+    "description": "Rumored to increase marching pace.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_68",
+    "name": "Wooden Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "uncommon",
+    "price": 385,
+    "sellPrice": 707,
+    "description": "Once belonged to a fearless rogue.",
+    "stats": {
+      "attack": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_69",
+    "name": "Iron Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "uncommon",
+    "price": 1463,
+    "sellPrice": 622,
+    "description": "Stitched with beast hide and iron.",
+    "stats": {
+      "maxHp": 60
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_70",
+    "name": "Iron Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "rare",
+    "price": 303,
+    "sellPrice": 118,
+    "description": "Echoes with the cries of victory.",
+    "stats": {
+      "attack": 30
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_71",
+    "name": "Steel Chest",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 333,
+    "sellPrice": 497,
+    "description": "Built to endure dragon fire.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_72",
+    "name": "Dragon Helm",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "common",
+    "price": 409,
+    "sellPrice": 573,
+    "description": "Still bears marks from past battles.",
+    "stats": {
+      "defense": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_73",
+    "name": "Steel Chest",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 1159,
+    "sellPrice": 327,
+    "description": "Fused with bone and steel.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_74",
+    "name": "Dragon Helm",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "rare",
+    "price": 793,
+    "sellPrice": 165,
+    "description": "Forged for the elite sentinels.",
+    "stats": {
+      "defense": 15
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_75",
+    "name": "Shadow Blade",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "legendary",
+    "price": 966,
+    "sellPrice": 482,
+    "description": "Balanced for swift and deadly strikes.",
+    "stats": {
+      "attack": 60
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_76",
+    "name": "Dragon Mail",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 1380,
+    "sellPrice": 281,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_77",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 291,
+    "sellPrice": 703,
+    "description": "Splits more than just wood.",
+    "stats": {
+      "attack": 26
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_78",
+    "name": "Wooden Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "common",
+    "price": 1296,
+    "sellPrice": 111,
+    "description": "Once belonged to a fearless rogue.",
+    "stats": {
+      "attack": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_79",
+    "name": "War Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "common",
+    "price": 1161,
+    "sellPrice": 344,
+    "description": "Splits more than just wood.",
+    "stats": {
+      "attack": 22
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_80",
+    "name": "Leather Cap",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "uncommon",
+    "price": 1252,
+    "sellPrice": 229,
+    "description": "Strong enough to block a warhammer.",
+    "stats": {
+      "defense": 12
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_81",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 108,
+    "sellPrice": 176,
+    "description": "A favorite of berserkers.",
+    "stats": {
+      "attack": 26
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_82",
+    "name": "Steel Helmet",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "common",
+    "price": 1306,
+    "sellPrice": 798,
+    "description": "Strong enough to block a warhammer.",
+    "stats": {
+      "defense": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_83",
+    "name": "Iron Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "rare",
+    "price": 361,
+    "sellPrice": 542,
+    "description": "Leaves a trail of broken shields.",
+    "stats": {
+      "attack": 33
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_84",
+    "name": "Leather Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 140,
+    "sellPrice": 413,
+    "description": "Fused with bone and steel.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_85",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "rare",
+    "price": 541,
+    "sellPrice": 383,
+    "description": "Splits more than just wood.",
+    "stats": {
+      "attack": 33
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_86",
+    "name": "Dragon Mail",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 608,
+    "sellPrice": 710,
+    "description": "Carries the weight of a hero's burden.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_87",
+    "name": "Dragon Mail",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 323,
+    "sellPrice": 537,
+    "description": "Built to endure dragon fire.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_88",
+    "name": "Steel Chest",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "common",
+    "price": 135,
+    "sellPrice": 190,
+    "description": "Stitched with beast hide and iron.",
+    "stats": {
+      "maxHp": 50
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_89",
+    "name": "Leather Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 390,
+    "sellPrice": 308,
+    "description": "Hardened soles for rough terrain.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_90",
+    "name": "Leather Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "rare",
+    "price": 588,
+    "sellPrice": 190,
+    "description": "Fused with bone and steel.",
+    "stats": {
+      "maxHp": 75
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_91",
+    "name": "Silver Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "legendary",
+    "price": 107,
+    "sellPrice": 774,
+    "description": "Sharpened under a crimson moon.",
+    "stats": {
+      "attack": 60
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_92",
+    "name": "Leather Armor",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "rare",
+    "price": 865,
+    "sellPrice": 382,
+    "description": "Armor once used by the Silver Knights.",
+    "stats": {
+      "maxHp": 75
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_93",
+    "name": "Knight's Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "uncommon",
+    "price": 716,
+    "sellPrice": 432,
+    "description": "Still echo with ancient steps.",
+    "stats": {
+      "hp": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_94",
+    "name": "Knight's Plate",
+    "type": "armor",
+    "subtype": "chestplate",
+    "rarity": "uncommon",
+    "price": 888,
+    "sellPrice": 535,
+    "description": "Stitched with beast hide and iron.",
+    "stats": {
+      "maxHp": 60
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_95",
+    "name": "Knight's Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "uncommon",
+    "price": 1149,
+    "sellPrice": 180,
+    "description": "Worn by messengers of war.",
+    "stats": {
+      "hp": 24
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_96",
+    "name": "Silver Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "common",
+    "price": 328,
+    "sellPrice": 83,
+    "description": "A relic from forgotten wars.",
+    "stats": {
+      "attack": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_97",
+    "name": "Leather Boots",
+    "type": "armor",
+    "subtype": "boots",
+    "rarity": "common",
+    "price": 1142,
+    "sellPrice": 134,
+    "description": "Worn by messengers of war.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_98",
+    "name": "Battle Axe",
+    "type": "weapon",
+    "subtype": "axe",
+    "rarity": "uncommon",
+    "price": 539,
+    "sellPrice": 228,
+    "description": "Leaves a trail of broken shields.",
+    "stats": {
+      "attack": 26
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_99",
+    "name": "Silver Sword",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "epic",
+    "price": 1333,
+    "sellPrice": 172,
+    "description": "Echoes with the cries of victory.",
+    "stats": {
+      "attack": 40
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_100",
+    "name": "Leather Cap",
+    "type": "armor",
+    "subtype": "helmet",
+    "rarity": "common",
+    "price": 359,
+    "sellPrice": 170,
+    "description": "Still bears marks from past battles.",
+    "stats": {
+      "defense": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_101",
+    "name": "Common Health Potion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "common",
+    "price": 179,
+    "sellPrice": 62,
+    "description": "A common health potion that boosts stats.",
+    "stats": {
+      "hp": 20
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_102",
+    "name": "Uncommon Health Potion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "uncommon",
+    "price": 371,
+    "sellPrice": 50,
+    "description": "A uncommon health potion that boosts stats.",
+    "stats": {
+      "hp": 25
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_103",
+    "name": "Rare Health Potion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "rare",
+    "price": 172,
+    "sellPrice": 213,
+    "description": "A rare health potion that boosts stats.",
+    "stats": {
+      "hp": 31
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_104",
+    "name": "Epic Health Potion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "epic",
+    "price": 395,
+    "sellPrice": 245,
+    "description": "A epic health potion that boosts stats.",
+    "stats": {
+      "hp": 60
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_105",
+    "name": "Legendary Health Potion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "legendary",
+    "price": 394,
+    "sellPrice": 58,
+    "description": "A legendary health potion that boosts stats.",
+    "stats": {
+      "hp": 80
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_106",
+    "name": "Common Defense Elixir",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "common",
+    "price": 361,
+    "sellPrice": 173,
+    "description": "A common defense elixir that boosts stats.",
+    "stats": {
+      "defense": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_107",
+    "name": "Uncommon Defense Elixir",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "uncommon",
+    "price": 413,
+    "sellPrice": 125,
+    "description": "A uncommon defense elixir that boosts stats.",
+    "stats": {
+      "defense": 19
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_108",
+    "name": "Rare Defense Elixir",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "rare",
+    "price": 365,
+    "sellPrice": 183,
+    "description": "A rare defense elixir that boosts stats.",
+    "stats": {
+      "defense": 31
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_109",
+    "name": "Epic Defense Elixir",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "epic",
+    "price": 134,
+    "sellPrice": 51,
+    "description": "A epic defense elixir that boosts stats.",
+    "stats": {
+      "defense": 60
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_110",
+    "name": "Legendary Defense Elixir",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "legendary",
+    "price": 152,
+    "sellPrice": 82,
+    "description": "A legendary defense elixir that boosts stats.",
+    "stats": {
+      "defense": 80
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_111",
+    "name": "Common Vitality Draught",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "common",
+    "price": 110,
+    "sellPrice": 56,
+    "description": "A common vitality draught that boosts stats.",
+    "stats": {
+      "maxHp": 15
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_112",
+    "name": "Uncommon Vitality Draught",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "uncommon",
+    "price": 405,
+    "sellPrice": 287,
+    "description": "A uncommon vitality draught that boosts stats.",
+    "stats": {
+      "maxHp": 19
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_113",
+    "name": "Rare Vitality Draught",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "rare",
+    "price": 250,
+    "sellPrice": 223,
+    "description": "A rare vitality draught that boosts stats.",
+    "stats": {
+      "maxHp": 31
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_114",
+    "name": "Epic Vitality Draught",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "epic",
+    "price": 281,
+    "sellPrice": 136,
+    "description": "A epic vitality draught that boosts stats.",
+    "stats": {
+      "maxHp": 60
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_115",
+    "name": "Legendary Vitality Draught",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "legendary",
+    "price": 273,
+    "sellPrice": 230,
+    "description": "A legendary vitality draught that boosts stats.",
+    "stats": {
+      "maxHp": 80
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_116",
+    "name": "Common Power Infusion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "common",
+    "price": 124,
+    "sellPrice": 228,
+    "description": "A common power infusion that boosts stats.",
+    "stats": {
+      "attack": 10
+    },
+    "levelRequirement": 1
+  },
+  {
+    "id": "item_117",
+    "name": "Uncommon Power Infusion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "uncommon",
+    "price": 210,
+    "sellPrice": 81,
+    "description": "A uncommon power infusion that boosts stats.",
+    "stats": {
+      "attack": 19
+    },
+    "levelRequirement": 3
+  },
+  {
+    "id": "item_118",
+    "name": "Rare Power Infusion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "rare",
+    "price": 377,
+    "sellPrice": 272,
+    "description": "A rare power infusion that boosts stats.",
+    "stats": {
+      "attack": 31
+    },
+    "levelRequirement": 6
+  },
+  {
+    "id": "item_119",
+    "name": "Epic Power Infusion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "epic",
+    "price": 237,
+    "sellPrice": 276,
+    "description": "A epic power infusion that boosts stats.",
+    "stats": {
+      "attack": 60
+    },
+    "levelRequirement": 10
+  },
+  {
+    "id": "item_120",
+    "name": "Legendary Power Infusion",
+    "type": "item",
+    "subtype": "potion",
+    "rarity": "legendary",
+    "price": 306,
+    "sellPrice": 168,
+    "description": "A legendary power infusion that boosts stats.",
+    "stats": {
+      "attack": 80
+    },
+    "levelRequirement": 15
+  },
+  {
+    "id": "item_121",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_122",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_123",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_124",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_125",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_126",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_127",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_128",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_129",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_130",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_131",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_132",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_133",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_134",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_135",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_136",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_137",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_138",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_139",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_140",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_141",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_142",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_143",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_144",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_145",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_146",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_147",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_148",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_149",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_150",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_151",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_152",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_153",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_154",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_155",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_156",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_157",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_158",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_159",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_160",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_161",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_162",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_163",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_164",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_165",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_166",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_167",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_168",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_169",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_170",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_171",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_172",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_173",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_174",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_175",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_176",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_177",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_178",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_179",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_180",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_181",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_182",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_183",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_184",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_185",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_186",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_187",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_188",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_189",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_190",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_191",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_192",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_193",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_194",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_195",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_196",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_197",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_198",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_199",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_200",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_201",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_202",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_203",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_204",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_205",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_206",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_207",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_208",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_209",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_210",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_211",
+    "name": "Wood",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Basic material for crafting."
+  },
+  {
+    "id": "item_212",
+    "name": "Stone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Commonly used for building."
+  },
+  {
+    "id": "item_213",
+    "name": "Iron Ingot",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Smelted from iron ore."
+  },
+  {
+    "id": "item_214",
+    "name": "Diamond",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Rare gem for high-tier equipment."
+  },
+  {
+    "id": "item_215",
+    "name": "Magic Dust",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in enchantments."
+  },
+  {
+    "id": "item_216",
+    "name": "Beast Hide",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Dropped from wild beasts."
+  },
+  {
+    "id": "item_217",
+    "name": "Flame Core",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Core of a fire monster."
+  },
+  {
+    "id": "item_218",
+    "name": "Frost Shard",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Shard imbued with cold."
+  },
+  {
+    "id": "item_219",
+    "name": "Poison Sac",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Used in toxic concoctions."
+  },
+  {
+    "id": "item_220",
+    "name": "Ancient Bone",
+    "type": "item",
+    "subtype": "material",
+    "rarity": "common",
+    "price": 20,
+    "sellPrice": 10,
+    "description": "Remnants of ancient beings."
+  },
+  {
+    "id": "item_221",
+    "name": "Healing Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 50 HP.",
+    "stats": {
+      "hp": 50
+    }
+  },
+  {
+    "id": "item_222",
+    "name": "Mana Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 40 Mana.",
+    "stats": {
+      "mana": 40
+    }
+  },
+  {
+    "id": "item_223",
+    "name": "Elixir of Strength",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts attack temporarily.",
+    "stats": {
+      "attack": 10
+    }
+  },
+  {
+    "id": "item_224",
+    "name": "Elixir of Defense",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts defense temporarily.",
+    "stats": {
+      "defense": 10
+    }
+  },
+  {
+    "id": "item_225",
+    "name": "Elixir of Speed",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts speed temporarily.",
+    "stats": {
+      "speed": 5
+    }
+  },
+  {
+    "id": "item_226",
+    "name": "Loaf of Bread",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores a bit of health.",
+    "stats": {
+      "hp": 10
+    }
+  },
+  {
+    "id": "item_227",
+    "name": "Meat Stew",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A hearty stew that restores health.",
+    "stats": {
+      "hp": 25
+    }
+  },
+  {
+    "id": "item_228",
+    "name": "Fruit Salad",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A fresh salad to regain energy.",
+    "stats": {
+      "hp": 15
+    }
+  },
+  {
+    "id": "item_229",
+    "name": "Energy Drink",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Gives a burst of speed.",
+    "stats": {
+      "speed": 3
+    }
+  },
+  {
+    "id": "item_230",
+    "name": "Mystery Meat",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "You're not sure what it is, but it works.",
+    "stats": {
+      "hp": 20
+    }
+  },
+  {
+    "id": "item_231",
+    "name": "Healing Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 50 HP.",
+    "stats": {
+      "hp": 50
+    }
+  },
+  {
+    "id": "item_232",
+    "name": "Mana Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 40 Mana.",
+    "stats": {
+      "mana": 40
+    }
+  },
+  {
+    "id": "item_233",
+    "name": "Elixir of Strength",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts attack temporarily.",
+    "stats": {
+      "attack": 10
+    }
+  },
+  {
+    "id": "item_234",
+    "name": "Elixir of Defense",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts defense temporarily.",
+    "stats": {
+      "defense": 10
+    }
+  },
+  {
+    "id": "item_235",
+    "name": "Elixir of Speed",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts speed temporarily.",
+    "stats": {
+      "speed": 5
+    }
+  },
+  {
+    "id": "item_236",
+    "name": "Loaf of Bread",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores a bit of health.",
+    "stats": {
+      "hp": 10
+    }
+  },
+  {
+    "id": "item_237",
+    "name": "Meat Stew",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A hearty stew that restores health.",
+    "stats": {
+      "hp": 25
+    }
+  },
+  {
+    "id": "item_238",
+    "name": "Fruit Salad",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A fresh salad to regain energy.",
+    "stats": {
+      "hp": 15
+    }
+  },
+  {
+    "id": "item_239",
+    "name": "Energy Drink",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Gives a burst of speed.",
+    "stats": {
+      "speed": 3
+    }
+  },
+  {
+    "id": "item_240",
+    "name": "Mystery Meat",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "You're not sure what it is, but it works.",
+    "stats": {
+      "hp": 20
+    }
+  },
+  {
+    "id": "item_241",
+    "name": "Healing Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 50 HP.",
+    "stats": {
+      "hp": 50
+    }
+  },
+  {
+    "id": "item_242",
+    "name": "Mana Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 40 Mana.",
+    "stats": {
+      "mana": 40
+    }
+  },
+  {
+    "id": "item_243",
+    "name": "Elixir of Strength",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts attack temporarily.",
+    "stats": {
+      "attack": 10
+    }
+  },
+  {
+    "id": "item_244",
+    "name": "Elixir of Defense",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts defense temporarily.",
+    "stats": {
+      "defense": 10
+    }
+  },
+  {
+    "id": "item_245",
+    "name": "Elixir of Speed",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts speed temporarily.",
+    "stats": {
+      "speed": 5
+    }
+  },
+  {
+    "id": "item_246",
+    "name": "Loaf of Bread",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores a bit of health.",
+    "stats": {
+      "hp": 10
+    }
+  },
+  {
+    "id": "item_247",
+    "name": "Meat Stew",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A hearty stew that restores health.",
+    "stats": {
+      "hp": 25
+    }
+  },
+  {
+    "id": "item_248",
+    "name": "Fruit Salad",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A fresh salad to regain energy.",
+    "stats": {
+      "hp": 15
+    }
+  },
+  {
+    "id": "item_249",
+    "name": "Energy Drink",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Gives a burst of speed.",
+    "stats": {
+      "speed": 3
+    }
+  },
+  {
+    "id": "item_250",
+    "name": "Mystery Meat",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "You're not sure what it is, but it works.",
+    "stats": {
+      "hp": 20
+    }
+  },
+  {
+    "id": "item_251",
+    "name": "Healing Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 50 HP.",
+    "stats": {
+      "hp": 50
+    }
+  },
+  {
+    "id": "item_252",
+    "name": "Mana Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 40 Mana.",
+    "stats": {
+      "mana": 40
+    }
+  },
+  {
+    "id": "item_253",
+    "name": "Elixir of Strength",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts attack temporarily.",
+    "stats": {
+      "attack": 10
+    }
+  },
+  {
+    "id": "item_254",
+    "name": "Elixir of Defense",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts defense temporarily.",
+    "stats": {
+      "defense": 10
+    }
+  },
+  {
+    "id": "item_255",
+    "name": "Elixir of Speed",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts speed temporarily.",
+    "stats": {
+      "speed": 5
+    }
+  },
+  {
+    "id": "item_256",
+    "name": "Loaf of Bread",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores a bit of health.",
+    "stats": {
+      "hp": 10
+    }
+  },
+  {
+    "id": "item_257",
+    "name": "Meat Stew",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A hearty stew that restores health.",
+    "stats": {
+      "hp": 25
+    }
+  },
+  {
+    "id": "item_258",
+    "name": "Fruit Salad",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A fresh salad to regain energy.",
+    "stats": {
+      "hp": 15
+    }
+  },
+  {
+    "id": "item_259",
+    "name": "Energy Drink",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Gives a burst of speed.",
+    "stats": {
+      "speed": 3
+    }
+  },
+  {
+    "id": "item_260",
+    "name": "Mystery Meat",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "You're not sure what it is, but it works.",
+    "stats": {
+      "hp": 20
+    }
+  },
+  {
+    "id": "item_261",
+    "name": "Healing Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 50 HP.",
+    "stats": {
+      "hp": 50
+    }
+  },
+  {
+    "id": "item_262",
+    "name": "Mana Potion",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores 40 Mana.",
+    "stats": {
+      "mana": 40
+    }
+  },
+  {
+    "id": "item_263",
+    "name": "Elixir of Strength",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts attack temporarily.",
+    "stats": {
+      "attack": 10
+    }
+  },
+  {
+    "id": "item_264",
+    "name": "Elixir of Defense",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts defense temporarily.",
+    "stats": {
+      "defense": 10
+    }
+  },
+  {
+    "id": "item_265",
+    "name": "Elixir of Speed",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Boosts speed temporarily.",
+    "stats": {
+      "speed": 5
+    }
+  },
+  {
+    "id": "item_266",
+    "name": "Loaf of Bread",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Restores a bit of health.",
+    "stats": {
+      "hp": 10
+    }
+  },
+  {
+    "id": "item_267",
+    "name": "Meat Stew",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A hearty stew that restores health.",
+    "stats": {
+      "hp": 25
+    }
+  },
+  {
+    "id": "item_268",
+    "name": "Fruit Salad",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "A fresh salad to regain energy.",
+    "stats": {
+      "hp": 15
+    }
+  },
+  {
+    "id": "item_269",
+    "name": "Energy Drink",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "Gives a burst of speed.",
+    "stats": {
+      "speed": 3
+    }
+  },
+  {
+    "id": "item_270",
+    "name": "Mystery Meat",
+    "type": "item",
+    "subtype": "consumable",
+    "rarity": "common",
+    "price": 50,
+    "sellPrice": 25,
+    "description": "You're not sure what it is, but it works.",
+    "stats": {
+      "hp": 20
+    }
+  },
+    {
+    "id": "item_271",
+    "name": "Exalibur",
+    "type": "weapon",
+    "subtype": "sword",
+    "rarity": "mythic",
+    "price": 1,
+    "sellPrice": 1,
+    "description": "Legendary Sword that used by Arthur.",
+    "stats": {
+      "hp": 999999999,
+      "attack": 999999999999999999999,
+      "defense": 999999999,
+      "maxHp": 999999999,
+      "dexterity": 999999999999999999999
+    }
+  }
+]

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Bot Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar Toggle Button -->
+        <button id="sidebar-toggle" class="sidebar-toggle">☰</button>
+
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="logo">
+                <span>Bot</span>Dashboard
+            </div>
+            <nav>
+                <ul>
+                    <li class="active" data-section="overview">
+                        <span>📊</span> Overview
+                    </li>
+                    <li data-section="commands">
+                        <span>⚙️</span> Commands
+                    </li>
+                    <li data-section="economy">
+                        <span>💰</span> Economy
+                    </li>
+                    <li data-section="game-data">
+                        <span>🎮</span> Game Data
+                    </li>
+                    <li data-section="bot-info">
+                        <span>🤖</span> Bot Info
+                    </li>
+                </ul>
+            </nav>
+            <div class="theme-toggle">
+                <span>🌙</span>
+                <label class="switch">
+                    <input type="checkbox" id="theme-toggle">
+                    <span class="slider"></span>
+                </label>
+                <span>☀️</span>
+            </div>
+            <div class="login-section">
+                <button id="login-button" class="login-button">Login with Discord</button>
+                <div id="user-profile" class="user-profile">
+                    <img id="user-avatar" src="" alt="Avatar">
+                    <span id="username"></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Overview Section -->
+            <section id="overview" class="content-section active">
+                <h1>Bot Statistics Overview</h1>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Guilds</h3>
+                        <p id="guild-count">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Total Users</h3>
+                        <p id="user-count">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Commands</h3>
+                        <p id="command-count">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Uptime</h3>
+                        <p id="uptime">0s</p>
+                    </div>
+                </div>
+
+                <div class="chart-row">
+                    <div class="chart-container">
+                        <h3>Command Usage</h3>
+                        <canvas id="commands-chart"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <h3>Top Categories</h3>
+                        <canvas id="categories-chart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Commands Section -->
+            <section id="commands" class="content-section">
+                <div class="section-header">
+                    <h1>Command Statistics</h1>
+                    <div class="search-box">
+                        <input type="text" id="command-search" placeholder="Search commands...">
+                        <button id="export-commands">Export CSV</button>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table id="commands-table">
+                        <thead>
+                            <tr>
+                                <th>Command</th>
+                                <th>Description</th>
+                                <th>Category</th>
+                                <th>Usage</th>
+                                <th>Permissions</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Economy Section -->
+            <section id="economy" class="content-section">
+                <h1>Economy Statistics</h1>
+                <div class="chart-row">
+                    <div class="chart-container wide">
+                        <h3>Top 10 Richest Players</h3>
+                        <canvas id="economy-chart"></canvas>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <table id="economy-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Username</th>
+                                <th>Balance</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Game Data Section -->
+            <section id="game-data" class="content-section">
+                <h1>Game Data</h1>
+                <div class="tabs">
+                    <button class="tab-button active" data-tab="monsters">Monsters</button>
+                    <button class="tab-button" data-tab="raid-bosses">Raid Bosses</button>
+                    <button class="tab-button" data-tab="items">Items</button>
+                    <button class="tab-button" data-tab="places">Places</button>
+                </div>
+
+                <div id="monsters" class="tab-content active">
+                    <div class="search-box">
+                        <input type="text" id="monster-search" placeholder="Search monsters...">
+                    </div>
+                    <div class="grid-view" id="monsters-grid"></div>
+                </div>
+
+                <div id="raid-bosses" class="tab-content">
+                    <div class="search-box">
+                        <input type="text" id="raid-search" placeholder="Search raid bosses...">
+                    </div>
+                    <div class="grid-view" id="raid-bosses-grid"></div>
+                </div>
+
+                <div id="items" class="tab-content">
+                    <div class="search-box">
+                        <input type="text" id="item-search" placeholder="Search items...">
+                    </div>
+                    <div class="grid-view" id="items-grid"></div>
+                </div>
+
+                <div id="places" class="tab-content">
+                    <div class="search-box">
+                        <input type="text" id="place-search" placeholder="Search places...">
+                    </div>
+                    <div class="grid-view" id="places-grid"></div>
+                </div>
+            </section>
+
+            <!-- Bot Info Section -->
+            <section id="bot-info" class="content-section">
+                <h1>Bot Information</h1>
+                <div class="bot-status-card">
+                    <div class="status-indicator" id="status-indicator"></div>
+                    <h2 id="bot-status-text">Loading...</h2>
+                </div>
+                <div class="info-grid">
+                    <div class="info-card">
+                        <h3>System Info</h3>
+                        <div class="info-row">
+                            <span>RAM Usage:</span>
+                            <span id="ram-usage">0 MB</span>
+                        </div>
+                        <div class="info-row">
+                            <span>Uptime:</span>
+                            <span id="bot-uptime">0s</span>
+                        </div>
+                        <div class="info-row">
+                            <span>Version:</span>
+                            <span>v1.0.0</span>
+                        </div>
+                    </div>
+                    <div class="info-card">
+                        <h3>Statistics</h3>
+                        <div class="info-row">
+                            <span>Guilds:</span>
+                            <span id="info-guild-count">0</span>
+                        </div>
+                        <div class="info-row">
+                            <span>Users:</span>
+                            <span id="info-user-count">0</span>
+                        </div>
+                        <div class="info-row">
+                            <span>Commands:</span>
+                            <span id="info-command-count">0</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Detail Modal -->
+    <div id="detail-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

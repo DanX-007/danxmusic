@@ -1,0 +1,2858 @@
+[
+  {
+    "id": "feral_wolf",
+    "name": "Feral Wolf",
+    "level": 13,
+    "stats": {
+      "hp": 135,
+      "attack": 26,
+      "defense": 12,
+      "speed": 5
+    },
+    "xp": 65,
+    "gold": [
+      13,
+      26
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "plains",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "swamp_slime",
+    "name": "Swamp Slime",
+    "level": 13,
+    "stats": {
+      "hp": 126,
+      "attack": 24,
+      "defense": 12,
+      "speed": 2
+    },
+    "xp": 65,
+    "gold": [
+      13,
+      26
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "cave",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "ash_viper",
+    "name": "Ash Viper",
+    "level": 11,
+    "stats": {
+      "hp": 117,
+      "attack": 20,
+      "defense": 12,
+      "speed": 2
+    },
+    "xp": 55,
+    "gold": [
+      11,
+      22
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "plains",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "cave_bat",
+    "name": "Cave Bat",
+    "level": 11,
+    "stats": {
+      "hp": 101,
+      "attack": 22,
+      "defense": 10,
+      "speed": 5
+    },
+    "xp": 55,
+    "gold": [
+      11,
+      22
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "cave",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "lurking_spider",
+    "name": "Lurking Spider",
+    "level": 6,
+    "stats": {
+      "hp": 56,
+      "attack": 11,
+      "defense": 7,
+      "speed": 4
+    },
+    "xp": 30,
+    "gold": [
+      6,
+      12
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "cave",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "stone_golem",
+    "name": "Stone Golem",
+    "level": 4,
+    "stats": {
+      "hp": 40,
+      "attack": 8,
+      "defense": 3,
+      "speed": 5
+    },
+    "xp": 20,
+    "gold": [
+      4,
+      8
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "plains",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "flame_imp",
+    "name": "Flame Imp",
+    "level": 1,
+    "stats": {
+      "hp": 13,
+      "attack": 2,
+      "defense": 2,
+      "speed": 8
+    },
+    "xp": 5,
+    "gold": [
+      1,
+      2
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "cave",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "forest_wisp",
+    "name": "Forest Wisp",
+    "level": 9,
+    "stats": {
+      "hp": 93,
+      "attack": 18,
+      "defense": 8,
+      "speed": 6
+    },
+    "xp": 45,
+    "gold": [
+      9,
+      18
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "cave",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "shadow_bandit",
+    "name": "Shadow Bandit",
+    "level": 4,
+    "stats": {
+      "hp": 37,
+      "attack": 7,
+      "defense": 5,
+      "speed": 5
+    },
+    "xp": 20,
+    "gold": [
+      4,
+      8
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "moss_troll",
+    "name": "Moss Troll",
+    "level": 10,
+    "stats": {
+      "hp": 91,
+      "attack": 21,
+      "defense": 10,
+      "speed": 4
+    },
+    "xp": 50,
+    "gold": [
+      10,
+      20
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "mountain",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "wild_boar",
+    "name": "Wild Boar",
+    "level": 7,
+    "stats": {
+      "hp": 71,
+      "attack": 12,
+      "defense": 7,
+      "speed": 5
+    },
+    "xp": 35,
+    "gold": [
+      7,
+      14
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "cave",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "crystal_beetle",
+    "name": "Crystal Beetle",
+    "level": 11,
+    "stats": {
+      "hp": 113,
+      "attack": 24,
+      "defense": 10,
+      "speed": 4
+    },
+    "xp": 55,
+    "gold": [
+      11,
+      22
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "cave",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "marsh_ghoul",
+    "name": "Marsh Ghoul",
+    "level": 14,
+    "stats": {
+      "hp": 143,
+      "attack": 26,
+      "defense": 15,
+      "speed": 7
+    },
+    "xp": 70,
+    "gold": [
+      14,
+      28
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "desert_scorpion",
+    "name": "Desert Scorpion",
+    "level": 4,
+    "stats": {
+      "hp": 50,
+      "attack": 8,
+      "defense": 3,
+      "speed": 6
+    },
+    "xp": 20,
+    "gold": [
+      4,
+      8
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "forest",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "river_serpent",
+    "name": "River Serpent",
+    "level": 18,
+    "stats": {
+      "hp": 177,
+      "attack": 36,
+      "defense": 17,
+      "speed": 8
+    },
+    "xp": 90,
+    "gold": [
+      18,
+      36
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "mountain",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "thunder_hawk",
+    "name": "Thunder Hawk",
+    "level": 11,
+    "stats": {
+      "hp": 112,
+      "attack": 22,
+      "defense": 10,
+      "speed": 7
+    },
+    "xp": 55,
+    "gold": [
+      11,
+      22
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "mountain",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "ice_wraith",
+    "name": "Ice Wraith",
+    "level": 18,
+    "stats": {
+      "hp": 177,
+      "attack": 37,
+      "defense": 18,
+      "speed": 8
+    },
+    "xp": 90,
+    "gold": [
+      18,
+      36
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "plains",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "venom_toad",
+    "name": "Venom Toad",
+    "level": 5,
+    "stats": {
+      "hp": 51,
+      "attack": 11,
+      "defense": 4,
+      "speed": 2
+    },
+    "xp": 25,
+    "gold": [
+      5,
+      10
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "bone_rat",
+    "name": "Bone Rat",
+    "level": 17,
+    "stats": {
+      "hp": 172,
+      "attack": 34,
+      "defense": 16,
+      "speed": 6
+    },
+    "xp": 85,
+    "gold": [
+      17,
+      34
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "mountain",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "night_howler",
+    "name": "Night Howler",
+    "level": 15,
+    "stats": {
+      "hp": 152,
+      "attack": 31,
+      "defense": 16,
+      "speed": 4
+    },
+    "xp": 75,
+    "gold": [
+      15,
+      30
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "forest",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "grave_robber",
+    "name": "Grave Robber",
+    "level": 6,
+    "stats": {
+      "hp": 63,
+      "attack": 11,
+      "defense": 6,
+      "speed": 7
+    },
+    "xp": 30,
+    "gold": [
+      6,
+      12
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "bramble_sprite",
+    "name": "Bramble Sprite",
+    "level": 16,
+    "stats": {
+      "hp": 165,
+      "attack": 33,
+      "defense": 17,
+      "speed": 7
+    },
+    "xp": 80,
+    "gold": [
+      16,
+      32
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "lava_crawler",
+    "name": "Lava Crawler",
+    "level": 1,
+    "stats": {
+      "hp": 15,
+      "attack": 3,
+      "defense": 0,
+      "speed": 8
+    },
+    "xp": 5,
+    "gold": [
+      1,
+      2
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "rock_coyote",
+    "name": "Rock Coyote",
+    "level": 9,
+    "stats": {
+      "hp": 82,
+      "attack": 16,
+      "defense": 10,
+      "speed": 6
+    },
+    "xp": 45,
+    "gold": [
+      9,
+      18
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "darkling_sprite",
+    "name": "Darkling Sprite",
+    "level": 3,
+    "stats": {
+      "hp": 28,
+      "attack": 5,
+      "defense": 2,
+      "speed": 4
+    },
+    "xp": 15,
+    "gold": [
+      3,
+      6
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "ghastly_spirit",
+    "name": "Ghastly Spirit",
+    "level": 13,
+    "stats": {
+      "hp": 126,
+      "attack": 26,
+      "defense": 13,
+      "speed": 5
+    },
+    "xp": 65,
+    "gold": [
+      13,
+      26
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "moonfang_fox",
+    "name": "Moonfang Fox",
+    "level": 6,
+    "stats": {
+      "hp": 50,
+      "attack": 13,
+      "defense": 7,
+      "speed": 4
+    },
+    "xp": 30,
+    "gold": [
+      6,
+      12
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "mountain",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "cinder_moth",
+    "name": "Cinder Moth",
+    "level": 9,
+    "stats": {
+      "hp": 93,
+      "attack": 18,
+      "defense": 10,
+      "speed": 6
+    },
+    "xp": 45,
+    "gold": [
+      9,
+      18
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "cave",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "thornbeak",
+    "name": "Thornbeak",
+    "level": 2,
+    "stats": {
+      "hp": 23,
+      "attack": 3,
+      "defense": 3,
+      "speed": 3
+    },
+    "xp": 10,
+    "gold": [
+      2,
+      4
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "plains",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "fang_lizard",
+    "name": "Fang Lizard",
+    "level": 3,
+    "stats": {
+      "hp": 33,
+      "attack": 6,
+      "defense": 2,
+      "speed": 4
+    },
+    "xp": 15,
+    "gold": [
+      3,
+      6
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "plains",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "storm_beetle",
+    "name": "Storm Beetle",
+    "level": 7,
+    "stats": {
+      "hp": 79,
+      "attack": 16,
+      "defense": 6,
+      "speed": 8
+    },
+    "xp": 35,
+    "gold": [
+      7,
+      14
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "dusk_prowler",
+    "name": "Dusk Prowler",
+    "level": 8,
+    "stats": {
+      "hp": 79,
+      "attack": 14,
+      "defense": 7,
+      "speed": 8
+    },
+    "xp": 40,
+    "gold": [
+      8,
+      16
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "cave",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "bloodwing",
+    "name": "Bloodwing",
+    "level": 10,
+    "stats": {
+      "hp": 90,
+      "attack": 18,
+      "defense": 10,
+      "speed": 6
+    },
+    "xp": 50,
+    "gold": [
+      10,
+      20
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "cave",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "cave_leech",
+    "name": "Cave Leech",
+    "level": 14,
+    "stats": {
+      "hp": 147,
+      "attack": 30,
+      "defense": 14,
+      "speed": 4
+    },
+    "xp": 70,
+    "gold": [
+      14,
+      28
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "forest",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "ashen_elk",
+    "name": "Ashen Elk",
+    "level": 7,
+    "stats": {
+      "hp": 67,
+      "attack": 13,
+      "defense": 7,
+      "speed": 8
+    },
+    "xp": 35,
+    "gold": [
+      7,
+      14
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "mountain",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "banshee_wail",
+    "name": "Banshee Wail",
+    "level": 17,
+    "stats": {
+      "hp": 172,
+      "attack": 33,
+      "defense": 16,
+      "speed": 3
+    },
+    "xp": 85,
+    "gold": [
+      17,
+      34
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "cave",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "frostfang",
+    "name": "Frostfang",
+    "level": 9,
+    "stats": {
+      "hp": 88,
+      "attack": 17,
+      "defense": 8,
+      "speed": 5
+    },
+    "xp": 45,
+    "gold": [
+      9,
+      18
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "wicked_raven",
+    "name": "Wicked Raven",
+    "level": 9,
+    "stats": {
+      "hp": 89,
+      "attack": 16,
+      "defense": 9,
+      "speed": 8
+    },
+    "xp": 45,
+    "gold": [
+      9,
+      18
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "mountain",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "toxic_weed",
+    "name": "Toxic Weed",
+    "level": 9,
+    "stats": {
+      "hp": 83,
+      "attack": 20,
+      "defense": 9,
+      "speed": 8
+    },
+    "xp": 45,
+    "gold": [
+      9,
+      18
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "cave",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "sunscale_drake",
+    "name": "Sunscale Drake",
+    "level": 7,
+    "stats": {
+      "hp": 75,
+      "attack": 13,
+      "defense": 8,
+      "speed": 8
+    },
+    "xp": 35,
+    "gold": [
+      7,
+      14
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "mudfiend",
+    "name": "Mudfiend",
+    "level": 18,
+    "stats": {
+      "hp": 189,
+      "attack": 38,
+      "defense": 17,
+      "speed": 2
+    },
+    "xp": 90,
+    "gold": [
+      18,
+      36
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "cave",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "hollow_husk",
+    "name": "Hollow Husk",
+    "level": 4,
+    "stats": {
+      "hp": 42,
+      "attack": 7,
+      "defense": 3,
+      "speed": 5
+    },
+    "xp": 20,
+    "gold": [
+      4,
+      8
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "mountain",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "scarlet_imp",
+    "name": "Scarlet Imp",
+    "level": 15,
+    "stats": {
+      "hp": 157,
+      "attack": 30,
+      "defense": 14,
+      "speed": 6
+    },
+    "xp": 75,
+    "gold": [
+      15,
+      30
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "plains",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "spine_crawler",
+    "name": "Spine Crawler",
+    "level": 4,
+    "stats": {
+      "hp": 43,
+      "attack": 8,
+      "defense": 5,
+      "speed": 7
+    },
+    "xp": 20,
+    "gold": [
+      4,
+      8
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "mountain",
+      "cave"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "tangle_viper",
+    "name": "Tangle Viper",
+    "level": 13,
+    "stats": {
+      "hp": 131,
+      "attack": 26,
+      "defense": 13,
+      "speed": 2
+    },
+    "xp": 65,
+    "gold": [
+      13,
+      26
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "mountain",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "cursed_boar",
+    "name": "Cursed Boar",
+    "level": 5,
+    "stats": {
+      "hp": 56,
+      "attack": 8,
+      "defense": 5,
+      "speed": 5
+    },
+    "xp": 25,
+    "gold": [
+      5,
+      10
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "wraithshade",
+    "name": "Wraithshade",
+    "level": 18,
+    "stats": {
+      "hp": 188,
+      "attack": 36,
+      "defense": 17,
+      "speed": 6
+    },
+    "xp": 90,
+    "gold": [
+      18,
+      36
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "cave",
+      "mountain"
+    ],
+    "drops": [
+      {
+        "id": "herb",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "fiery_tick",
+    "name": "Fiery Tick",
+    "level": 18,
+    "stats": {
+      "hp": 173,
+      "attack": 35,
+      "defense": 19,
+      "speed": 8
+    },
+    "xp": 90,
+    "gold": [
+      18,
+      36
+    ],
+    "difficulty": "normal",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "shadow_cub",
+    "name": "Shadow Cub",
+    "level": 15,
+    "stats": {
+      "hp": 153,
+      "attack": 31,
+      "defense": 14,
+      "speed": 2
+    },
+    "xp": 75,
+    "gold": [
+      15,
+      30
+    ],
+    "difficulty": "hard",
+    "spawnAreas": [
+      "forest",
+      "plains"
+    ],
+    "drops": [
+      {
+        "id": "wolf_fang",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "iron_ore",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "slime_gel",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "gnarl_root",
+    "name": "Gnarl Root",
+    "level": 16,
+    "stats": {
+      "hp": 163,
+      "attack": 31,
+      "defense": 16,
+      "speed": 3
+    },
+    "xp": 80,
+    "gold": [
+      16,
+      32
+    ],
+    "difficulty": "easy",
+    "spawnAreas": [
+      "cave",
+      "forest"
+    ],
+    "drops": [
+      {
+        "id": "goblin_ear",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "hpThreshold": 0.2,
+        "action": "flee",
+        "chance": 0.3
+      }
+    ]
+  },
+  {
+    "id": "infernal_behemoth",
+    "name": "Infernal Behemoth",
+    "level": 41,
+    "stats": {
+      "hp": 4171,
+      "attack": 122,
+      "defense": 92,
+      "speed": 12
+    },
+    "xp": 2050,
+    "gold": [
+      410,
+      820
+    ],
+    "difficulty": "extreme",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/TPQZeFpM.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "elder_wyrm",
+    "name": "Elder Wyrm",
+    "level": 70,
+    "stats": {
+      "hp": 7035,
+      "attack": 214,
+      "defense": 134,
+      "speed": 17
+    },
+    "xp": 3500,
+    "gold": [
+      700,
+      1400
+    ],
+    "difficulty": "extreme",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/hjrYEq9B.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "titan_of_stone",
+    "name": "Titan of Stone",
+    "level": 69,
+    "stats": {
+      "hp": 6973,
+      "attack": 199,
+      "defense": 134,
+      "speed": 20
+    },
+    "xp": 3450,
+    "gold": [
+      690,
+      1380
+    ],
+    "difficulty": "nightmare",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/0jYeCG6c.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "void_reaper",
+    "name": "Void Reaper",
+    "level": 59,
+    "stats": {
+      "hp": 5939,
+      "attack": 169,
+      "defense": 119,
+      "speed": 12
+    },
+    "xp": 2950,
+    "gold": [
+      590,
+      1180
+    ],
+    "difficulty": "nightmare",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/4AgLl6Ga.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "abyss_leviathan",
+    "name": "Abyss Leviathan",
+    "level": 56,
+    "stats": {
+      "hp": 5575,
+      "attack": 166,
+      "defense": 102,
+      "speed": 15
+    },
+    "xp": 2800,
+    "gold": [
+      560,
+      1120
+    ],
+    "difficulty": "extreme",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/2buEPBlm.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "dread_phoenix",
+    "name": "Dread Phoenix",
+    "level": 50,
+    "stats": {
+      "hp": 4965,
+      "attack": 142,
+      "defense": 105,
+      "speed": 16
+    },
+    "xp": 2500,
+    "gold": [
+      500,
+      1000
+    ],
+    "difficulty": "nightmare",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/VYFPLvut.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.2,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "lich_emperor",
+    "name": "Lich Emperor",
+    "level": 55,
+    "stats": {
+      "hp": 5434,
+      "attack": 173,
+      "defense": 116,
+      "speed": 13
+    },
+    "xp": 2750,
+    "gold": [
+      550,
+      1100
+    ],
+    "difficulty": "extreme",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/hTxnsd28.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "celestial_serpent",
+    "name": "Celestial Serpent",
+    "level": 43,
+    "stats": {
+      "hp": 4308,
+      "attack": 132,
+      "defense": 88,
+      "speed": 12
+    },
+    "xp": 2150,
+    "gold": [
+      430,
+      860
+    ],
+    "difficulty": "extreme",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/prti14XW.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "storm_titan",
+    "name": "Storm Titan",
+    "level": 68,
+    "stats": {
+      "hp": 6840,
+      "attack": 202,
+      "defense": 146,
+      "speed": 17
+    },
+    "xp": 3400,
+    "gold": [
+      680,
+      1360
+    ],
+    "difficulty": "nightmare",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/ktfMwdqp.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "item_100",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "hellfire_colossus",
+    "name": "Hellfire Colossus",
+    "level": 62,
+    "stats": {
+      "hp": 6219,
+      "attack": 179,
+      "defense": 130,
+      "speed": 13
+    },
+    "xp": 3100,
+    "gold": [
+      620,
+      1240
+    ],
+    "difficulty": "nightmare",
+    "raidBoss": true,
+    "image": "https://files.cloudkuimages.guru/images/A5WV7osG.jpg",
+    "phases": [
+      {
+        "hpThreshold": 0.5,
+        "effects": [
+          {
+            "stat": "attack",
+            "modifier": 0.25,
+            "operation": "multiply"
+          }
+        ]
+      },
+      {
+        "hpThreshold": 0.2,
+        "effects": [
+          {
+            "stat": "defense",
+            "modifier": -0.3,
+            "operation": "multiply"
+          },
+          {
+            "stat": "attackSpeed",
+            "modifier": 0.5,
+            "operation": "multiply"
+          }
+        ]
+      }
+    ],
+    "drops": [
+      {
+        "id": "item_100",
+        "chance": 0.3,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.5,
+        "min": 1,
+        "max": 2
+      },
+      {
+        "id": "item_100",
+        "chance": 0.4,
+        "min": 1,
+        "max": 3
+      },
+      {
+        "id": "item_100",
+        "chance": 0.1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "id": "item_100",
+        "chance": 0.05,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  }
+]

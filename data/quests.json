@@ -1,0 +1,66 @@
+[
+  {
+    "id": "combat_beginner",
+    "name": "Pembasmi Monster Pemula",
+    "description": "Kalahkan 10 monster level rendah",
+    "requiredLevel": 1,
+    "maxCompletions": 10,
+    "baseSuccessChance": 60,
+    "rewards": {
+      "xp": 50,
+      "balance": 100,
+      "items": {
+        "health_potion": 1
+      }
+    },
+    "titleReward": {
+      "name": "Pembasmi Monster",
+      "stats": {
+        "attack": 2,
+        "defense": 1
+      }
+    },
+    "category": "combat"
+  },
+  {
+    "id": "gather_wood",
+    "name": "Pengumpul Kayu",
+    "description": "Kumpulkan 20 kayu",
+    "requiredLevel": 2,
+    "maxCompletions": 10,
+    "baseSuccessChance": 70,
+    "rewards": {
+      "xp": 30,
+      "balance": 50
+    },
+    "titleReward": {
+      "name": "Penebang Kayu",
+      "stats": {
+        "maxHp": 5
+      }
+    },
+    "category": "gathering"
+  },
+  {
+    "id": "craft_beginner",
+    "name": "Pandai Besi Pemula",
+    "description": "Craft 5 item level rendah",
+    "requiredLevel": 3,
+    "maxCompletions": 10,
+    "baseSuccessChance": 65,
+    "rewards": {
+      "xp": 40,
+      "balance": 75,
+      "items": {
+        "iron_ingot": 2
+      }
+    },
+    "titleReward": {
+      "name": "Pandai Besi",
+      "stats": {
+        "defense": 2
+      }
+    },
+    "category": "crafting"
+  }
+]
